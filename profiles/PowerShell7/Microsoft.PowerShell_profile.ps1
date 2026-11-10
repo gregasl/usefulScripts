@@ -1,0 +1,1 @@
+function claude-opus {claude --model "claude-opus-4-7" }
