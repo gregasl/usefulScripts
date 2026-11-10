@@ -1,1 +1,1 @@
-function claude-opus {claude --model "claude-opus-4-7" }
+function claude-opus { claude --model claude-opus-5-5 @args }

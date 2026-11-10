@@ -12,6 +12,5 @@ Function global:prompt {
 
 function redis-cli { memurai-cli }
 
-function claude-o { claude --model claude-opus-4-7 @args }
-function claude-o2 { claude --model claude-opus-4-8 @args }
-function claude-s { claude --model claude-sonnet-4-6 @args }
+function claude-o { claude --model claude-opus-5-5 @args }
+function claude-s { claude --model claude-sonnet-5-5 @args }
